@@ -3,4 +3,4 @@
 ERNIE Bot Agents、Vue+Element UI、Node.js+Express、Python
 
 ## 项目简介
-基于大模型多Agent架构开发考研英语智能学习平台，Unity搭建虚拟自习室3D场景；负责前端页面开发与大模型Agent对接，拆分学习规划、知识点答疑、学习监督多智能体分工，实现AI个性化辅导、智能问答、学习计划生成等核心功能。
+基于Deepseek大模型的多Agent技术开发考研英语学习辅助平台，使用Unity搭建虚拟自习室场景。参与前端界面开发和Agent对接工作，实现了AI学习规划、知识点问答等功能。项目使用了多Agent协作机制，通过不同Agent分别处理学习规划、知识讲解、学习监督等任务。
